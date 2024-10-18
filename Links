@@ -16,15 +16,16 @@ https://github.com/lanrat/certgraph                                             
 https://github.com/dxa4481/bygonessl                                                                                                          - инструмент поиска доменов
 https://github.com/SSLMate/certspotter                                                                                                        - мониторинг прозрачности сертификатов
 https://fusionbrain.ai/editor/                                                                                                                - нейросеть GPT
-https://scapy.readthedocs.io/en/latest/                                                                                                       - документация SCAPY
-https://thepythoncode.com/article/make-dns-spoof-python                                                                                       - атака с подменой ДНС на Python
-https://habr.com/ru/articles/809013/                                                                                - Атака Kerberoasting без пароля пользователя — миф, или новая реальность?
-https://kali.tools/?p=501                                                                                           - инструменты Linux Router Scan by Stas’M
-https://hackware.ru/?p=4666                                                                                         - Как определить, какой Wi-Fi адаптер подойдёт для Kali Linux
-https://zalinux.ru/?p=411                                                                                           - Замена iwconfig на iw
-https://kali.tools/?p=411                                                                                           - Инструменты для Kali LInux
-https://kali.tools/?p=4246                                                                                          - Описание mdk4 Kali LInux
-https://hackware.ru/?tag=сниффинг                                                                                   - Взлом сетевой аутентификации Windows
-https://kali.tools/?p=2069                                                                                          - Описание Tor Browser Kali
-https://kali.tools/?p=3858                                                                                          - hack-captive-portals
-https://kali.tools/?p=3601                                                                                          - arp-scan
+https://scapy.readthedocs.io/en/latest/                                                  - документация SCAPY
+https://thepythoncode.com/article/make-dns-spoof-python                                  - атака с подменой ДНС на Python
+https://habr.com/ru/articles/809013/                                                     - Атака Kerberoasting без пароля пользователя — миф, или новая реальность?
+https://kali.tools/?p=501                                                                - инструменты Linux Router Scan by Stas’M
+https://hackware.ru/?p=4666                                                              - Как определить, какой Wi-Fi адаптер подойдёт для Kali Linux
+https://zalinux.ru/?p=411                                                                - Замена iwconfig на iw
+https://kali.tools/?p=411                                                                - Инструменты для Kali LInux
+https://kali.tools/?p=4246                                                               - Описание mdk4 Kali LInux
+https://hackware.ru/?tag=сниффинг                                                        - Взлом сетевой аутентификации Windows
+https://kali.tools/?p=2069                                                               - Описание Tor Browser Kali
+https://kali.tools/?p=3858                                                               - hack-captive-portals
+https://kali.tools/?p=3601                                                               - arp-scan
+https://hackware.ru/?p=4917                                                              - Как поменять MAC-адрес в Linux, как включить и отключить автоматическую смену (спуфинг) MAC в Linux
